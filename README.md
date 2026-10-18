@@ -1,19 +1,8 @@
 
-# TOSCA-based Multi-Cloud Optimization: Balancing FinOps and Green Cloud Policies
+# A TOSCA 2.0 Profile for Carbon-Aware Multi-Cloud Placement under FinOps Constraints
 
 
-The project "TOSCA-based Multi-Cloud Optimization: Balancing FinOps and Green Cloud Policies" was developed to streamline decision-making regarding cloud computing infrastructure for cloud-native applications. It aims to achieve optimal (or near-optimal) pricing while adhering to monthly carbon footprint thresholds. The framework utilizes a newly proposed TOSCA profile tailored for defining cloud-native application topologies. The optimization problem is formulated as a Mixed-Integer Linear Program (MILP) and solved using the OR-Tools CP-SAT solver.
-
-# Badges and Artifact Evaluation
-
-The authors submit this repository for evaluation under the following badges:
-
-* Artifacts Available (SeloD)
-* Artifacts Functional (SeloF)
-* Sustainable Artifacts (SeloS)
-* Reproducible Experiments (SeloR)
-
-These claims are based on the source code and documentation provided herein and in related repositories.
+The project "A TOSCA 2.0 Profile for Carbon-Aware Multi-Cloud Placement under FinOps Constraints" was developed to streamline decision-making regarding cloud computing infrastructure for cloud-native applications. It aims to achieve optimal (or near-optimal) pricing while adhering to monthly carbon footprint thresholds. The framework utilizes a newly proposed TOSCA profile tailored for defining cloud-native application topologies. The optimization problem is formulated as constraint-programming model solved using the OR-Tools CP-SAT solver.
 
 # Basic Information
 
